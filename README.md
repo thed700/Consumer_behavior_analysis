@@ -163,7 +163,7 @@ The notebook produces a **7-panel dark-theme analysis chart:**
 
 ```bash
 # Clone
-git clone https://github.com/thed700/consumer-behavior-analysis.git
+git clone https://github.com/thed700/Consumer_behavior_analysis
 cd consumer-behavior-analysis
 
 # Install dependencies
